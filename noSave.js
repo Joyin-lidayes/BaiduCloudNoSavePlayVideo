@@ -1,11 +1,16 @@
 // ==UserScript==
 // @name         百度网盘免转存播放视频
+// @updateURL    https://raw.githubusercontent.com/Joyin-lidayes/BaiduCloudNoSavePlayVideo/main/noSave.js
+// @downloadURL  https://raw.githubusercontent.com/Joyin-lidayes/BaiduCloudNoSavePlayVideo/main/noSave.js
 // @namespace    http://tampermonkey.net/
+// @run-at          document-start
 // @version      0.1
 // @description  try to take over the world!
 // @author       Joyin.Lee
 // @match        *://pan.baidu.com/*
 // @icon         https://pan.baidu.com/m-static/base/static/images/favicon.ico
+// @connect      raw.githubusercontent.com
+// @connect      github.com
 // @grant        none
 // ==/UserScript==
 
